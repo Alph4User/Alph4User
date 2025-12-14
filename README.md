@@ -1,16 +1,19 @@
-[![](https://visitcount.itsvg.in/api?id=Alph4User&icon=2&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Alph4User&icon=5&color=12)](https://visitcount.itsvg.in)
 
-# Hi 👋🏽 I'm Wilfred Njenga
+# 👋🏽 Hi, I'm Wilfred Njenga
 
-### A Full Stack Developer & Security-Focused Engineer
-<br>- Currently building scalable and secure web applications.<br>- Open to collaboration on web development, cybersecurity, and AI/ML projects.<br>- Passionate about enhancing security, performance, and scalability of applications.<br>- Learning advanced frameworks, libraries, and cybersecurity practices.<br>- Ask me about Web Development, ReactJS | NextJS | Angular, TypeScript, Python, C++ | C, React Native | Flutter, AI/ML, Appwrite, Firebase, Supabase, Clerk, and more.<br>- Fun fact: I enjoy building projects that challenge my skills across web, security, and system architecture.
+### Full Stack Developer | Security-Focused Engineer | AI/ML Enthusiast
+<br>💻 Building scalable, secure, and cutting-edge applications.  
+🌍 Open to collaborations in Web, AI, and Cybersecurity projects.  
+🎯 Passionate about clean code, automation, and high-impact solutions.  
 
 ---
 
-# 🌐 Connect with me
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ali.__.ch_) 
+# 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-787-ch) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ali.__.ch_) 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/Alph4User)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/)  
 
 ---
 
@@ -20,21 +23,25 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 
-## **Web & Frameworks**
+## **Frontend & Frameworks**
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+
+## **Backend & APIs**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express-404D59?style=flat&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 
 ## **Databases & Cloud**
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
@@ -48,7 +55,7 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-## **Data Science & ML**
+## **AI / Data Science**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
@@ -57,24 +64,35 @@
 ---
 
 # 🚀 Current Projects
-- **Smart POS System** – Python, SQLite, CustomTkinter for retail automation  
+- **Smart POS System** – Python, SQLite, CustomTkinter  
 - **Web3 Learning Dashboard** – React + TypeScript + Web3.js  
-- **AI Chatbot** – Python + FastAPI for intelligent support systems  
+- **AI Chatbot** – Python + FastAPI for intelligent automation  
 
 ---
 
 # 🎯 Learning Goals
 - Master **cybersecurity fundamentals** and ethical hacking  
-- Improve **React & Next.js advanced patterns**  
-- Learn **TypeScript deep types & system design patterns**  
-- Explore **AI/ML model deployment on cloud platforms**  
+- Advanced **React & Next.js architecture patterns**  
+- Deep dive into **TypeScript and system design**  
+- Deploy **AI/ML models on cloud platforms**
 
 ---
 
-# ⚡ Fun Fact
-> I built an award-winning project in under 24 hours during a hackathon!  
+# ⚡ Fun Facts & Achievements
+- Built an **award-winning project** in under 24 hours at a hackathon  
+- Passionate about **cybersecurity, AI, and building practical tools**  
+- Always experimenting with **automation and productivity hacks**
 
 ---
 
 # 🐍 Contributions
 ![](https://github.com/Alph4User/Alph4User/blob/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+# 🔐 Cybersecurity & AI Vibes
+<p align="center">
+  <img src="https://c.tenor.com/5NlK5rOe5NIAAAAM/hacker-anime.gif" width="200" />
+  <img src="https://c.tenor.com/T7K-rRnKrlMAAAAM/cyber-security-hacking.gif" width="200" />
+</p>
+
