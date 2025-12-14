@@ -1,135 +1,69 @@
-<!-- ========================= VISITOR COUNTER ========================= -->
+[![](https://visitcount.itsvg.in/api?id=Alph4User&icon=2&color=12)](https://visitcount.itsvg.in)
+
+# Hi 👋🏽 I'm Wilfred Njenga
+
+### A Full Stack Developer & Security-Focused Engineer
+<br>- Currently building scalable and secure web applications.<br>- Open to collaboration on web development, cybersecurity, and AI/ML projects.<br>- Passionate about enhancing security, performance, and scalability of applications.<br>- Learning advanced frameworks, libraries, and cybersecurity practices.<br>- Ask me about Web Development, ReactJS | NextJS | Angular, TypeScript, Python, C++ | C, React Native | Flutter, AI/ML, Appwrite, Firebase, Supabase, Clerk, and more.<br>- Fun fact: I enjoy building projects that challenge my skills across web, security, and system architecture.
+
+---
+
+# 🌐 Connect with me
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ali.__.ch_) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-787-ch) 
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/Alph4User)
+
+---
+
+# 🛠 Tech Stack
+
+## **Languages**
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+
+## **Web & Frameworks**
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-404D59?style=flat&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+
+## **Databases & Cloud**
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0072C6?style=flat&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+
+## **DevOps & Tools**
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=flat&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+## **Data Science & ML**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
+---
+
+# 📊 GitHub Stats
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Alph4User&icon=5&color=12" />
-</p>
-
-<!-- ========================= HEADER ========================= -->
-<h1 align="center">👋🏽 Wilfred Njenga (Alph4User)</h1>
-<h3 align="center">
-  Software Engineer • Web Architect • Security-Oriented Developer
-</h3>
-
-<p align="center">
-  <b>Building scalable systems • Securing applications • Learning relentlessly</b><br/>
-  📍 Kenya | 🌍 Open to Global Collaboration
-</p>
-
----
-
-## 🧠 Engineering Philosophy
-
-> *“Code is not just written to work — it is written to survive scale, failure, and attack.”*
-
-- Design **before** development  
-- Security is **not optional**  
-- Automation beats repetition  
-- Documentation is part of engineering  
-
----
-
-## 🧩 What I Do (Deep Dive)
-
-```txt
-Frontend      → React • Next.js • TypeScript • UI Architecture
-Backend       → Node.js • FastAPI • REST • Auth • APIs
-Databases     → PostgreSQL • MongoDB • SQLite
-Security      → App Security • Networking • Ethical Hacking (Learning)
-DevOps        → Docker • GitHub Actions • Linux
-Mindset       → Clean code • Scalability • Observability
-```
-
----
-
-## 🧪 Current Focus Areas
-
-* 🔐 Secure application design (auth, permissions, attack surfaces)
-* 🧠 Software architecture & system thinking
-* 🚀 Production-ready React & TypeScript
-* 🐍 Python for tooling, automation & backend services
-* 📡 Networking fundamentals for cybersecurity foundations
-
----
-
-## 🧰 Tech Stack (Expanded)
-
-### 🧑‍💻 Languages
-
-<p>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-</p>
-
-### 🌐 Frontend & Web
-
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
-</p>
-
-### 🛠 Backend & APIs
-
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi"/>
-<img src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express"/>
-</p>
-
-### 🗄 Databases
-
-<p>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white"/>
-</p>
-
-### ⚙️ DevOps & Systems
-
-<p>
-<img src="https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white"/>
-</p>
-
----
-
-## 🔐 Security & Networking (Growing Area)
-
-* Networking fundamentals (TCP/IP, DNS, routing)
-* Secure authentication flows
-* OWASP awareness
-* Ethical hacking mindset (learning phase)
-
----
-
-## 📊 GitHub Intelligence Dashboard
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alph4User&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alph4User&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alph4User&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alph4User&layout=compact&theme=radical" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alph4User&theme=radical&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Alph4User&theme=radical&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://github.com/Alph4User/Alph4User/blob/output/github-contribution-grid-snake-dark.svg" />
@@ -137,70 +71,6 @@ Mindset       → Clean code • Scalability • Observability
 
 ---
 
-## ⚡ Real-Time Coding & Activity Stats
+# ⚡ Fun Fact
+> I built an award-winning project in under 24 hours during a hackathon!
 
-### WakaTime Coding Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Alph4User&layout=compact&theme=radical"/>
-</p>
-
-### GitHub Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alph4User&theme=radical"/>
-</p>
-
----
-
-## 🕵️ Cybersecurity Animations
-
-<p align="center">
-  <img src="https://c.tenor.com/5NlK5rOe5NIAAAAM/hacker-anime.gif" width="300" />
-  <img src="https://c.tenor.com/T7K-rRnKrlMAAAAM/cyber-security-hacking.gif" width="300" />
-</p>
-
----
-
-## 📂 Engineering Mindset (Collapsible)
-
-<details>
-<summary><b>📐 Architecture Principles</b></summary>
-
-* Separation of concerns
-* Stateless services where possible
-* Explicit error handling
-* Secure defaults
-* Readability over cleverness
-
-</details>
-
-<details>
-<summary><b>🧪 Code Quality Rules</b></summary>
-
-* Linting & formatting enforced
-* Small functions, clear names
-* Comments explain *why*, not *what*
-* Tests are documentation
-
-</details>
-
-<details>
-<summary><b>🚀 Long-Term Vision</b></summary>
-
-* Become a security-aware systems engineer
-* Work on high-impact, resilient software
-* Bridge web engineering & cybersecurity
-
-</details>
-
----
-
-## 🌐 Connect
-
-* 💼 LinkedIn: *(add link)*
-* 🌍 Portfolio: *(add link)*
-
----
-
-<p align="center">
-  <b>⚡ “Build things that last. Secure things that matter.”</b>
-</p>
