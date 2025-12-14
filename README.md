@@ -86,13 +86,14 @@
 ---
 
 # 🐍 Contributions
-![](https://github.com/Alph4User/Alph4User/blob/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Alph4User/Alph4User/main/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</p>
 
 ---
 
 # 🔐 Cybersecurity & AI Vibes
 <p align="center">
-  <img src="https://c.tenor.com/5NlK5rOe5NIAAAAM/hacker-anime.gif" width="200" />
-  <img src="https://c.tenor.com/T7K-rRnKrlMAAAAM/cyber-security-hacking.gif" width="200" />
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="200" />
 </p>
-
