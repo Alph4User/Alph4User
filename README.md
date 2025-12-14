@@ -56,21 +56,25 @@
 
 ---
 
-# 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alph4User&show_icons=true&theme=radical" />
-</p>
+# 🚀 Current Projects
+- **Smart POS System** – Python, SQLite, CustomTkinter for retail automation  
+- **Web3 Learning Dashboard** – React + TypeScript + Web3.js  
+- **AI Chatbot** – Python + FastAPI for intelligent support systems  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alph4User&layout=compact&theme=radical" />
-</p>
+---
 
-<p align="center">
-  <img src="https://github.com/Alph4User/Alph4User/blob/output/github-contribution-grid-snake-dark.svg" />
-</p>
+# 🎯 Learning Goals
+- Master **cybersecurity fundamentals** and ethical hacking  
+- Improve **React & Next.js advanced patterns**  
+- Learn **TypeScript deep types & system design patterns**  
+- Explore **AI/ML model deployment on cloud platforms**  
 
 ---
 
 # ⚡ Fun Fact
-> I built an award-winning project in under 24 hours during a hackathon!
+> I built an award-winning project in under 24 hours during a hackathon!  
 
+---
+
+# 🐍 Contributions
+![](https://github.com/Alph4User/Alph4User/blob/output/github-contribution-grid-snake-dark.svg)
