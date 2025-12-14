@@ -1,61 +1,110 @@
-[![](https://visitcount.itsvg.in/api?id=Alph4User&icon=2&color=12)](https://visitcount.itsvg.in)
+<!-- ========================= VISITOR COUNTER ========================= -->
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Alph4User&icon=5&color=12" />
+</p>
 
-# 👋 Hello, I'm Wilfred Njenga  
-### Full-Stack Developer | Web & Security Enthusiast | Lifelong Learner
+<!-- ========================= HEADER ========================= -->
+<h1 align="center">👋🏽 Wilfred Njenga (Alph4User)</h1>
+<h3 align="center">
+  Software Engineer • Web Architect • Security-Oriented Developer
+</h3>
 
-🌍 *Based in Kenya*  
-💡 I build cool web apps, explore cybersecurity, and learn constantly.  
-🛠 I enjoy working with React, TypeScript, Python, and modern backend systems.
-
----
-
-## 🔭 I’m Currently
-- 🧠 Learning advanced web frameworks and secure application design  
-- 🚀 Building projects and improving my portfolio  
-- 🤝 Open to contributions, collabs, and mentorship  
-
----
-
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://)
+<p align="center">
+  <b>Building scalable systems • Securing applications • Learning relentlessly</b><br/>
+  📍 Kenya | 🌍 Open to Global Collaboration
+</p>
 
 ---
 
-## 🛠 Tech Stack
+## 🧠 Engineering Philosophy
 
-### **Languages**
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6?style=flat&logo=css3&logoColor=white)
+> *“Code is not just written to work — it is written to survive scale, failure, and attack.”*
 
-### **Frontend Frameworks**
-![React](https://img.shields.io/badge/react-%2320232A.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
-
-### **Backend & Tools**
-![Node.js](https://img.shields.io/badge/node.js-339933?style=flat&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-%23404D59?style=flat&logo=express&logoColor=white)
-
-### **Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-%234EA94B?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192?style=flat&logo=postgresql&logoColor=white)
-
-### **DevOps & Tools**
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+- Design **before** development  
+- Security is **not optional**  
+- Automation beats repetition  
+- Documentation is part of engineering  
 
 ---
 
-## 📊 GitHub Stats
-![Alph4User GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alph4User&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alph4User&layout=compact&theme=radical)
+## 🧩 What I Do (Deep Dive)
 
----
+```txt
+Frontend      → React • Next.js • TypeScript • UI Architecture
+Backend       → Node.js • FastAPI • REST • Auth • APIs
+Databases     → PostgreSQL • MongoDB • SQLite
+Security      → App Security • Networking • Ethical Hacking (Learning)
+DevOps        → Docker • GitHub Actions • Linux
+Mindset       → Clean code • Scalability • Observability
+🧪 Current Focus Areas
+🔐 Secure application design (auth, permissions, attack surfaces)
 
-### ⚡ Always learning. Always building.
+🧠 Software architecture & system thinking
+
+🚀 Production-ready React & TypeScript
+
+🐍 Python for tooling, automation & backend services
+
+📡 Networking fundamentals for cybersecurity foundations
+
+🧰 Tech Stack (Expanded)
+🧑‍💻 Languages
+<p> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/> </p>
+🌐 Frontend & Web
+<p> <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/> </p>
+🛠 Backend & APIs
+<p> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi"/> <img src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express"/> </p>
+🗄 Databases
+<p> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white"/> </p>
+⚙️ DevOps & Systems
+<p> <img src="https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white"/> </p>
+🔐 Security & Networking (Growing Area)
+Networking fundamentals (TCP/IP, DNS, routing)
+
+Secure authentication flows
+
+OWASP awareness
+
+Ethical hacking mindset (learning phase)
+
+📊 GitHub Intelligence Dashboard
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Alph4User&show_icons=true&theme=radical&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alph4User&layout=compact&theme=radical&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alph4User&theme=redical&hide_border=true" /> </p>
+🏆 GitHub Achievements
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Alph4User&theme=radical&no-frame=true&row=1&column=6"/> </p>
+🐍 Contribution Snake
+<p align="center"> <img src="https://github.com/Alph4User/Alph4User/blob/output/github-contribution-grid-snake-dark.svg" /> </p>
+📂 Engineering Mindset (Collapsible)
+<details> <summary><b>📐 Architecture Principles</b></summary>
+Separation of concerns
+
+Stateless services where possible
+
+Explicit error handling
+
+Secure defaults
+
+Readability over cleverness
+
+</details> <details> <summary><b>🧪 Code Quality Rules</b></summary>
+Linting & formatting enforced
+
+Small functions, clear names
+
+Comments explain why, not what
+
+Tests are documentation
+
+</details> <details> <summary><b>🚀 Long-Term Vision</b></summary>
+Become a security-aware systems engineer
+
+Work on high-impact, resilient software
+
+Bridge web engineering & cybersecurity
+
+</details>
+🌐 Connect
+💼 LinkedIn: (add link)
+
+🌍 Portfolio: (add when ready)
+
+<p align="center"> <b>⚡ “Build things that last. Secure things that matter.”</b> </p> ```
